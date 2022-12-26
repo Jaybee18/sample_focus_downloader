@@ -1,5 +1,5 @@
 # sample_focus_downloader
-Python based mp3 downloader for sample focus
+Python based mp3 downloader for sample focus (sry)
 
 ## Usage
 ```python samplefocus_dl.py [URL]```
